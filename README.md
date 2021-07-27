@@ -1,4 +1,4 @@
-# Mangaer Oueue Web UI
+# Mangaer Queue Web UI
 
 
 
